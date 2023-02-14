@@ -1,1 +1,2 @@
-7-file
+#!/bin/bash
+echo "Holberton School" | cat > '\*\\'\''"Holberton School"\'\''\\*$\?\*\*\*\*\*:)'
